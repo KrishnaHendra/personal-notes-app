@@ -1,0 +1,28 @@
+{
+  "name": "submission-1-personal-notes-app",
+  "version": "1.0.0",
+  "description": "Personal notes app by Krishna Hendra Wijaya",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Krishna Hendra Wijaya",
+  "license": "ISC",
+  "dependencies": {
+    "html-react-parser": "^5.2.10",
+    "prop-types": "^15.8.1",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-icons": "^5.5.0",
+    "react-router-dom": "^7.9.6"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.6",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^5.1.1",
+    "vite": "^7.2.2"
+  }
+}

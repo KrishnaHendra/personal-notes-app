@@ -26,7 +26,7 @@ An elegant and modern personal notes application built with React. Manage your n
 
 ```bash
 git clone <repository-url>
-cd submission-1-personal-notes-app
+cd personal-notes-app
 ```
 
 2. Install dependencies
